@@ -354,3 +354,16 @@ LaTeX support; GPL with font exception for the fonts.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar fonts tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.005b-2
++ Revision: 751403
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.005b-1
++ Revision: 718318
+- texlive-electrum
+- texlive-electrum
+- texlive-electrum
+
