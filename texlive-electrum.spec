@@ -6,7 +6,7 @@
 # catalog-version 1.005-b
 Name:		texlive-electrum
 Version:	1.005b
-Release:	3
+Release:	4
 Summary:	Electrum ADF fonts collection
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/electrumadf
