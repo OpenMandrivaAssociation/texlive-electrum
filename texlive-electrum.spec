@@ -1,6 +1,6 @@
 Name:		texlive-electrum
 Version:	19705
-Release:	1
+Release:	2
 Summary:	Electrum ADF fonts collection
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/electrumadf
