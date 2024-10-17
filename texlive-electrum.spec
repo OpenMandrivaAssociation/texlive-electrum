@@ -3,7 +3,7 @@ Version:	19705
 Release:	2
 Summary:	Electrum ADF fonts collection
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/electrumadf
+URL:		https://www.ctan.org/tex-archive/fonts/electrumadf
 License:	OTHER-FREE
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/electrum.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/electrum.doc.r%{version}.tar.xz
